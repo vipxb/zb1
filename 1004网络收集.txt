@@ -1,10 +1,9 @@
 港澳频道,#genre#
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-SiTV七彩戏剧,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8531/.m3u8
-电影剧场,http://159.75.85.63:35455/douyu/7575350
 电影台61,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=76101626
+东森戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
@@ -18,7 +17,6 @@ TVBJade翡翠台CantoneseSubtitles,http://162.244.81.145:3333/live/telebostonrtb
 TVBPlus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBS新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBSAsia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -40,6 +38,7 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯电视台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
@@ -55,7 +54,6 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 翡翠台,https://pi.0472.org/tv/fct.php?auth=230918
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/jydx.php?id=38
