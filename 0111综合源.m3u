@@ -2895,18 +2895,6 @@ http://maomao.kandiantv.cn/douyu1.php?id=747764
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/粤语电影.png" group-title="港澳频道",粤语电影
 http://allinone.netsite.cc/douyu/6566671
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="组播剧场",第一剧场
-http://49.71.31.79:8888/rtp/239.49.8.94:8000?$江苏电信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="组播剧场",风云剧场
-http://49.71.31.79:8888/rtp/239.49.8.89:8000?$江苏电信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="组播剧场",风云音乐
-http://49.71.31.79:8888/rtp/239.49.8.92:8000?$江苏电信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="组播剧场",怀旧剧场
-http://49.71.31.79:8888/rtp/239.49.8.91:8000?$江苏电信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="组播剧场",女性时尚
-http://49.71.31.79:8888/rtp/239.49.8.93:8000?$江苏电信
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="组播剧场",世界地理
-http://49.71.31.79:8888/rtp/239.49.8.87:8000?$江苏电信
 
-#EXTINF:-1 group-title="2025/01/10 09:58更新",虚情的爱
+#EXTINF:-1 group-title="2025/01/11 13:25更新",虚情的爱
 https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
